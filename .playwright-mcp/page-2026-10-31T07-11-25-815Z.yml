@@ -1,0 +1,8 @@
+- generic [active]:
+  - generic [ref=f8e4]:
+    - link [ref=f8e5] [cursor=pointer]:
+      - /url: phone.html
+    - link [ref=f8e7] [cursor=pointer]:
+      - /url: mixer.html
+  - link [ref=f8e10] [cursor=pointer]:
+    - /url: config.html

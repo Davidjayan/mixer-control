@@ -1,0 +1,36 @@
+{
+ "leader": "uncle",
+ "created": 1793437357.7583435,
+ "to": {
+  "i.12.mix": 0.5468,
+  "i.12.aux.0.value": 0.7807,
+  "i.12.aux.1.value": 0.7807,
+  "i.12.fx.0.value": 0.2758,
+  "i.11.mix": 1.0,
+  "i.11.aux.0.value": 0.6895,
+  "i.11.aux.1.value": 0.6895,
+  "i.13.mix": 0.9453,
+  "i.13.aux.0.value": 0.6017,
+  "i.13.aux.1.value": 0.6017,
+  "i.13.fx.0.value": 0.37
+ },
+ "from": {
+  "i.12.mix": "0.6921",
+  "i.12.aux.0.value": "0.6921",
+  "i.12.aux.1.value": "0.6921",
+  "i.12.fx.0.value": "0.37",
+  "i.11.mix": "0.9628",
+  "i.11.aux.0.value": "0.738",
+  "i.11.aux.1.value": "0.738",
+  "i.13.mix": "0.8442",
+  "i.13.aux.0.value": "0.6312",
+  "i.13.aux.1.value": "0.6312",
+  "i.13.fx.0.value": "0.2758"
+ },
+ "rows": [
+  "  david  measured -16.7  fader -2.7 -> -9.0 dB  expected output -23.0",
+  "  aunty  measured -27.0  fader 8.1 -> 10.0 dB  expected output -25.1",
+  "  uncle  measured -19.3  fader 3.0 -> 7.3 dB  expected output -15.0"
+ ],
+ "notes": []
+}

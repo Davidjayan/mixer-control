@@ -1,0 +1,3 @@
+- [Church audio engineer role](church-audio-engineer-role.md) — check live inputs before every mix change; never assume values
+- [Mixer working style](church-mixer-working-style.md) — user's ear decides; they may mix at the same time
+- [Worship mix setup](church-worship-mix-setup.md) — leaders, choir, Indian songs, last known state and open issues

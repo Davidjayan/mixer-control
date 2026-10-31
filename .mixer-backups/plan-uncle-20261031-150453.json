@@ -1,0 +1,38 @@
+{
+ "leader": "uncle",
+ "created": 1793439293.807388,
+ "to": {
+  "i.12.mix": 0.5153,
+  "i.12.aux.0.value": 0.8258,
+  "i.12.aux.1.value": 0.8258,
+  "i.12.fx.0.value": 0.2758,
+  "i.11.mix": 0.919,
+  "i.11.aux.0.value": 0.794,
+  "i.11.aux.1.value": 0.794,
+  "i.13.mix": 1.0,
+  "i.13.aux.0.value": 0.545,
+  "i.13.aux.1.value": 0.545,
+  "i.13.fx.0.value": 0.37
+ },
+ "from": {
+  "i.12.mix": "0.6921",
+  "i.12.aux.0.value": "0.6921",
+  "i.12.aux.1.value": "0.6921",
+  "i.12.fx.0.value": "0.37",
+  "i.11.mix": "0.9628",
+  "i.11.aux.0.value": "0.738",
+  "i.11.aux.1.value": "0.738",
+  "i.13.mix": "0.8442",
+  "i.13.aux.0.value": "0.6312",
+  "i.13.aux.1.value": "0.6312",
+  "i.13.fx.0.value": "0.2758"
+ },
+ "rows": [
+  "  david  measured -18.7  fader -2.7 -> -10.7 dB  expected output -26.7",
+  "  aunty  measured -24.7  fader 8.1 -> 6.1 dB  expected output -26.7",
+  "  uncle  measured -25.7  fader 3.0 -> 10.0 dB  expected output -18.7"
+ ],
+ "notes": [
+  "uncle reaches -18.7 dB, short of the -15.0 dB goal. Raising the mic gain live is the fix; it needs the user's approval."
+ ]
+}

@@ -1,0 +1,24 @@
+{
+  "host": "192.168.0.133",
+  "backup_dir": ".mixer-backups",
+  "channels": {
+    "keyboard_l": 0, "keyboard_r": 1, "pad_l": 2, "pad_r": 3, "keyboard2": 4,
+    "drums_l": 5, "drums_r": 6, "drums_x": 7, "drums_y": 8, "song": 9,
+    "danny": 10, "aunty": 11, "david": 12, "uncle": 13,
+    "choir4": 14, "choir3": 15, "choir1": 16, "choir2": 17
+  },
+  "subgroups": { "choir": 0, "drums": 1 },
+  "aux": { "monitors": [0, 1], "youtube": [2, 3] },
+  "singers": ["david", "aunty", "uncle"],
+  "targets": {
+    "_explains": "Goals only. Fader and send values are always calculated from the live mixer and live meters.",
+    "lead_output_db": -15.0,
+    "support_gap_db": 8.0,
+    "monitor_lead_bump_db": 3.0,
+    "fx1_lead_send_db": -21.0,
+    "fx1_support_send_db": -29.0,
+    "max_fader_db": 10.0,
+    "max_move_db": 12.0
+  },
+  "plan_valid_seconds": 300
+}
